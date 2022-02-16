@@ -10,6 +10,9 @@
     "lint-fix": "lynt --typescript --fix",
     "test": "exit 0"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hirako2000/test-yoffee-ts.git"
