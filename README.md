@@ -18,3 +18,12 @@ Then hit [http://localhost:1234](http://localhost:1234)
 npm run build
 ```
 
+### Stack
+
+- TypeScript 
+- Using YoffeeJS with TS type declaration
+- Packaging with parcel
+- Daisy CSS (over Tailwind)
+- SCSS
+
+
