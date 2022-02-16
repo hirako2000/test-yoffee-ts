@@ -1,7 +1,5 @@
 # Tiny setup for yoffee with TypeScript
 
-This uses parcel.
-
 It simply displays a name and age held as a Yoffee state variable passed to `html` yoffee elements.
 With a button triggering an update of the age state property.
 
