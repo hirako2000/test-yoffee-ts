@@ -1,9 +1,11 @@
+# This project is now Defunct
+
+Superseeded by official [yoffee-typescript-template](https://github.com/lefetmeofefet/yoffee-typescript-template). Use that instead, it is leaner, and maintained by the inventor of Yoffee.
+
 # Tiny setup for yoffee with TypeScript
 
 It simply displays a name and age held as a Yoffee state variable passed to `html` yoffee elements.
 With a button triggering an update of the age state property.
-
-Other than making sure the yoffee dependency has the type declaration, everything should nicely work out of the box.
 
 ### Dev
 
